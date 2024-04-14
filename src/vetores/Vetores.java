@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Vetores {
 
-    //Criem um programa que peça 10 números, armazene eles em um vetor e diga qual elemento é o maior, qual é o menor.
+    //Crie um programa que peça 10 números, armazene eles em um vetor e diga qual elemento é o maior, qual é o menor.
     public static void main(String[] args) {
         int num[] = new int[10];
         int maior = num[0];
